@@ -1,8 +1,6 @@
 ## 📚 **Bookista**  
 A simple eBook reading website where users can browse different **categories (folders)**, select an **eBook**, and read it online.  
 
-![Ebook Library Screenshot](https://via.placeholder.com/800x400) *(Replace with actual screenshot if needed)*  
-
 ---
 
 ## 🚀 **Features**
@@ -81,7 +79,7 @@ Want to improve this project?
 ---
 
 ## 🔗 **Live Demo**
-🚀 **** **  
+🚀 **https://bookista-ruddy.vercel.app/** **  
 
 ---
 
