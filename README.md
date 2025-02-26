@@ -79,7 +79,7 @@ Want to improve this project?
 ---
 
 ## 🔗 **Live Demo**
-🚀 **https://bookista-ruddy.vercel.app/** **  
+🚀 **https://bookista-ruddy.vercel.app/**
 
 ---
 
