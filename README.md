@@ -87,7 +87,3 @@ Want to improve this project?
 
 ## 📜 **License**
 This project is **open-source** and available under the **MIT License**.  
-
----
-
-This **README** provides all necessary details about the project. You can update the **GitHub link** and **live demo link** accordingly. 🚀
